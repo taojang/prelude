@@ -11,8 +11,8 @@
 ;(load-theme 'solarized-light t)
 
 (setq initial-frame-alist '(
-                            (font . "Source Code Pro for Powerline-12")
+                            (font . "Noto Mono-12")
                             ))
 (setq default-frame-alist '(
-                            (font . "Source Code Pro for Powerline-12")
+                            (font . "Noto Mono-12")
                             ))
