@@ -9,10 +9,3 @@
 ;(load-theme 'tango-dark t)
 ;(load-theme 'leuven)
 ;(load-theme 'solarized-light t)
-
-(setq initial-frame-alist '(
-                            (font . "Noto Mono-12")
-                            ))
-(setq default-frame-alist '(
-                            (font . "Noto Mono-12")
-                            ))
