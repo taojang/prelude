@@ -1,8 +1,8 @@
-(setq prelude-theme 'solarized-dark)
+(setq prelude-theme 'solarized-light)
 
 (setq initial-frame-alist '(
-                            (font . "Noto Mono-12")
+                            (font . "Noto Mono-13")
                             ))
 (setq default-frame-alist '(
-                            (font . "Noto Mono-12")
+                            (font . "Noto Mono-13")
                             ))
