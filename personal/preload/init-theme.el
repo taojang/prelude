@@ -1,10 +1,10 @@
-(setq prelude-theme 'zenburn)
+(setq prelude-theme 'solarized-light)
 
 (setq initial-frame-alist '(
-                            (font . "Noto Mono-12")
+                            (font . "WenQuanYi Zen Hei Mono-13")
                             ))
 (setq default-frame-alist '(
-                            (font . "Noto Mono-12")
+                            (font . "WenQuanYi Zen Hei Mono-13")
                             ))
 
 ;; (setq initial-frame-alist '(
