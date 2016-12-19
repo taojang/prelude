@@ -3,3 +3,4 @@
   (add-to-list 'exec-path my-cabal-path))
 (custom-set-variables '(haskell-tags-on-save t))
 (custom-set-variables '(haskell-process-type 'stack-ghci))
+(custom-set-variables '(haskell-process-args-stack-ghci '("--ghc-options=-ferror-spans" "--nix")))
