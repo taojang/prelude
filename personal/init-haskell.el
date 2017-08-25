@@ -9,7 +9,7 @@
   (add-hook 'haskell-mode-hook 'flycheck-mode))
 
 ;; stack
-;; (custom-set-variables '(haskell-process-type 'stack-ghci))
-;; (custom-set-variables '(haskell-process-args-stack-ghci '("--ghc-options=-ferror-spans" "--nix")))
+(custom-set-variables '(haskell-process-type 'stack-ghci))
+(custom-set-variables '(haskell-process-args-stack-ghci '("--ghc-options=-ferror-spans" "--nix")))
 
 (setq-default flycheck-disabled-checkers '(haskell-stack-ghc))
