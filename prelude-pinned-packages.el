@@ -25,6 +25,7 @@
         (cython-mode . "melpa-stable")
         (d-mode . "melpa-stable")
         (dart-mode . "melpa-stable")
+        (dante . "melpa-stable")
         (dash . "melpa-stable")
         (diff-hl . "melpa-stable")
         (diminish . "melpa-stable")
