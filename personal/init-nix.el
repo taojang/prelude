@@ -1,4 +1,4 @@
-(prelude-require-packages '(nixos-options helm-nixos-options company-nixos-options nix-sandbox))
+(prelude-require-packages '(nix-mode nixos-options helm-nixos-options company-nixos-options nix-sandbox))
 
 (setq flycheck-command-wrapper-function
       (lambda (command) (apply 'nix-shell-command (nix-current-sandbox) command))
