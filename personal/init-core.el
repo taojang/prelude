@@ -1,5 +1,5 @@
-;;(prelude-require-package 'xclip)
-;;(xclip-mode 1)
+(prelude-require-package 'xclip)
+(xclip-mode 1)
 (prelude-require-package 'edit-server)
 (setq edit-server-new-frame nil)
 (edit-server-start)

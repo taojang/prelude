@@ -1,5 +1,5 @@
 ;; disable zenburn
-;(prelude-require-package 'solarized-theme)
+(prelude-require-package 'solarized-theme)
 ;(disable-theme 'zenburn)
 
 
