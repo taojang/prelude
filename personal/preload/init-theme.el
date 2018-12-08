@@ -1,4 +1,4 @@
-;; n(setq prelude-theme 'solarized-dark)
+(setq prelude-theme 'solarized-light)
 
 ;; (setq initial-frame-alist '(
 ;;                             (font . "WenQuanYi Zen Hei Mono-13")
